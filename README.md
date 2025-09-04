@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Rashidi 👋
 
-<!--
-**rashidi/rashidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineering Tech Lead at Ezypay**
 
-Here are some ideas to get you started:
+> _“I break things and build people.”_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I’m an Engineering Tech Lead passionate about growing people and building resilient systems. My expertise lies in Java and Spring Boot, and I thrive on leadership and mentoring—helping teams grow while shipping impactful software.
+
+---
+
+## 🚀 Top Skills
+
+- **Java**
+- **Spring Boot**
+- **Leadership**
+- **Mentoring**
+
+---
+
+## 🌟 Favorite Project
+
+[![spring-boot-tutorials](https://github-readme-stats.vercel.app/api/pin/?username=rashidi&repo=spring-boot-tutorials)](https://github.com/rashidi/spring-boot-tutorials)
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rashidizin/)
+- [Mastodon](https://universeodon.com/@rashidi)
+
+---
+
+## 🎮 Beyond Code
+
+- 🕺 Latin social dance enthusiast
+- 🕹️ Tekken 8 challenger
+
+---
+
+_Thanks for stopping by!_
